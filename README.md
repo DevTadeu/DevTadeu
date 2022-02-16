@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Márcio Tadeu 😉
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ootadeu)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/Márcio-Reis)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/márcio-reis-6867b5215)
 
 ![Tadeu GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeuDev&show_icons=true&theme=radical)
 
